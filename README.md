@@ -17,14 +17,15 @@ Aqui os meus passos basicos:
 
 - Instalei um [Virtualbox](https://www.virtualbox.org/wiki/Downloads) basicão para segregar meu ambiente;
 - Instalei o [Vagrant](https://developer.hashicorp.com/vagrant/downloads?product_intent=vagrant);
-- Clonei o repositorio [vagrant-kubeadm-kubernetes](https://github.com/techiescamp/vagrant-kubeadm-kubernetes) e extrai os dados relevantes:
+- Clonei o repositorio [vagrant-kubeadm-kubernetes](https://github.com/techiescamp/vagrant-kubeadm-kubernetes) e extrai os dados relevantes!
 
-    - Vagrantfile - Arquivo que define a configuração do ambiente;
-    - settings.yaml - Arquivo com a parametrização do ambiente;
+    Não vou discorrer sobre o resultado, para isto na pasta [lab](./lab)!
 
-Não vou discorrer sobre o resultado, para isto na pasta [lab][./lab]!
+- Procurei material de apoio [aqui](https://github.com/badtuxx/DescomplicandoKubernetes).
 
-Mas e agora, o que eu faço?
+
+
+### Mas e agora, o que eu faço?
 
 Eu investi a alguns anos, mas não exercitei, então estou recomeçando, e gostei muito do material dispnibilizado pela [LinuxTips](https://www.linuxtips.io/treinamentos), começando pela trilha Essentials:
 
